@@ -98,7 +98,7 @@ const vishnu = {
 <a href="https://www.linkedin.com/in/vishnu-kr2050/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vishnu.kr2050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/VishnuKr318"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://github.com/VishnuKR-Official/Personal-Portfolio-1"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/VishnuKR-Official/Personal-Portfolio-1](https://vishnukr-official.github.io/Personal-Portfolio-1/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
