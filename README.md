@@ -95,7 +95,7 @@ const vishnu = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-kr2050/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vishnu.kr2050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+   [![Gmail](https://shields.io)](mailto:vishnu.kr2050@gmail.com)
   <a href="https://x.com/VishnuKr318" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://vishnukr-official.github.io/Personal-Portfolio-1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
